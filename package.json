@@ -1,0 +1,21 @@
+{
+	"name": "fast-build-client",
+	"displayName": "fast-build-client",
+	"description": "快速构建工具的语言客户端",
+	"publisher": "lichenghao",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.69.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/2815261401/fastbuild-client.git"
+	},
+	"dependencies": {
+		"vscode-languageclient": "^8.0.2"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.69.0",
+		"@vscode/test-electron": "^2.1.5"
+	}
+}
